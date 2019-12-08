@@ -41,6 +41,6 @@ I might try to set it up so that both APEX and WWW are supported one day, but de
 
    This will take a while and you might need to flush your browser's cache a few times.
 
----
+## To-Do
 
-- [ ] See if both WWW and APEX domain setup is possible
+### See if both WWW and APEX domain setup is possible
